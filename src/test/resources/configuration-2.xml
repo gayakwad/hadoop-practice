@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<configuration>
+    <property>
+        <name>color</name>
+        <value>red</value>
+    </property>
+</configuration>
